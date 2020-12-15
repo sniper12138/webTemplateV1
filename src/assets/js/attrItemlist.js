@@ -1,0 +1,61 @@
+let attrNameList = [{
+  value: '内容'
+}, {
+  textAlign: '对齐方式'
+}, {
+  width: '宽度'
+}, {
+  fontSize: '字号'
+}, {
+  height: '高度'
+}, {
+  backgroundColor: '背景颜色'
+}, {
+  color: '颜色'
+}, {
+  borderWidth: '边框宽度'
+}, {
+  borderColor: '边框颜色'
+}, {
+  borderStyle: '边框样式'
+}, {
+  marginTop: '上外边距'
+}, {
+  marginLeft: '左外边距'
+}, {
+  marginRight: '右外边距'
+}, {
+  marginBottom: '下外边距'
+}, {
+  paddingTop: '上内边距'
+}, {
+  paddingLeft: '左内边距'
+}, {
+  paddingRight: '右内边距'
+}, {
+  paddingBottom: '下内边距'
+}, {
+  loop: '循环'
+}, {
+  autoplay: '自动轮播'
+}, {
+  list: '列表'
+}, {
+  padding: '内边距'
+}, {
+  margin: '外边距'
+}, {
+  href: '超链接'
+}, {
+  src: '链接'
+}, {
+  lineHeight: '行高'
+}, {
+  borderRadius: '圆角'
+}, {
+  backgroundImage: '背景图片'
+}]
+
+export {
+  attrNameList
+}
